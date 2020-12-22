@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraTest</string>
+    <string name="request_cam">Request Cam</string>
+</resources>
